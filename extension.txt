@@ -1,7 +1,0 @@
-.ai,/Documents/Illustrator
-.odt,/Documents/LibreOffice
-.doc.docx,/Documents/Word
-.png.jpg,/Images
-.mp3.wav.flac.riff.bwf.ogg.aiff.alac,/Musique
-.mp4.mov.mpg,/Videos
-.png,/Documents/PhotosPng

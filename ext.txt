@@ -1,0 +1,7 @@
+.ai,/Documents/Illustrator
+.doc.docx,/Documents/Word
+.png.jpg,/Pictures
+.mp3.wav.flac.riff.bwf.ogg.aiff.alac,/Music
+.mp4.mov.mpg,/Videos
+.md,/Documents/Markdown
+.cpp,/Documents/CPP
