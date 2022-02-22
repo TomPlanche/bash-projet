@@ -15,7 +15,7 @@
                 15px -15px 0 -5px rgba(88, 133, 176, 0.1), 15px -15px #0A758F,
                 20px -20px 0 -5px rgba(88, 133, 176, 0.1), 20px -20px #075264;
                ">
-        Small Project In Bash For School
+        Small School Project In Bash (unfinished)
     </h1>
 </div>
 
